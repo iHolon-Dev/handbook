@@ -1,5 +1,7 @@
 # A common set of development norms
 
+[中文版!](README-ZH.md)
+
 Adhering to a common set of developer norms is a vital factor when a team of people is trying to produce high quality, timely, business critical software.
 
 I'm regularly asked to work on codebases that do not conform to any known measure of coding standards.
